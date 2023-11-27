@@ -1,0 +1,15 @@
+{
+  "name": "streaming-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "file-on-write": "^1.1.1",
+    "mjpeg-camera": "^2.0.1"
+  }
+}
